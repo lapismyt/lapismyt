@@ -14,6 +14,7 @@ Links:
 - [GitHub](https://github.com/lapismyt)
 - [Website](http://lapismyt.lol)
 - [Telegram](https://t.me/LapisMYT)
+- [Wakatime](https://wakatime.com/@LapisMYT)
 
 Some badges, just for fun:
 
