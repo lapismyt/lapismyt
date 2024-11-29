@@ -1,6 +1,6 @@
 [![Wakatime](https://wakatime.com/badge/user/ca0cb219-088f-4a29-9d00-140073eea462.svg)](https://wakatime.com/@ca0cb219-088f-4a29-9d00-140073eea462)
 
-### I'm backend Python developer, learning Rust.
+### I'm backend Python developer.
 
 Skills:
 - Basic: threading, asyncio, sqlite3, dataclasses-json, pypy, linux
