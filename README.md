@@ -1,4 +1,5 @@
 [![wakatime](https://wakatime.com/badge/user/ca0cb219-088f-4a29-9d00-140073eea462.svg)](https://wakatime.com/@ca0cb219-088f-4a29-9d00-140073eea462)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 I'm backend Python developer, learning Rust.
 
