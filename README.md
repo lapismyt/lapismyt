@@ -31,5 +31,6 @@ Some badges, just for fun:
 [![Flask](https://img.shields.io/badge/Flask-gray?logo=flask)](https://flask.palletsprojects.com/en/stable)
 [![Linux](https://img.shields.io/badge/Linux-gray?logo=linux)](https://www.linux.org)
 [![GPL v3](https://img.shields.io/badge/GPLv3-gray?logo=gnu)](https://www.gnu.org/licenses/gpl-3.0)
+[![PieMC](https://img.shields.io/badge/🍰_PieMC-gray)](https://github.com/PieMC-Dev/PieMC)
 
 #freeinternet
