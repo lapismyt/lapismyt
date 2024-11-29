@@ -7,13 +7,14 @@ Telegram: @LapisMYT
 
 Skills:
 - Basic: threading, asyncio, sqlite3, dataclasses-json
-- Telegram: pyTelegramBotAPI, aiogram 3, telethon, pyrogram
+- Telegram: pytelegrambotapi, aiogram 3, telethon, pyrogram
 - TON: pytoniq, ston-fi.py, dedust, tonutils
 - Web: aiohttp, flask
+- AI: aihorde, ollama, openai, anthropic
 
-GitHub: https://github.com/lapismyt
-
-Website: http://lapismyt.lol
+Links:
+- [GitHub](https://github.com/lapismyt)
+- [Website](http://lapismyt.lol)
 
 IDE: VS Code, sometimes PyCharm
 
