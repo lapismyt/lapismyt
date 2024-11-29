@@ -3,8 +3,6 @@
 
 I'm backend Python developer, learning Rust.
 
-Telegram: @LapisMYT
-
 Skills:
 - Basic: threading, asyncio, sqlite3, dataclasses-json
 - Telegram: pytelegrambotapi, aiogram 3, telethon, pyrogram
@@ -15,6 +13,7 @@ Skills:
 Links:
 - [GitHub](https://github.com/lapismyt)
 - [Website](http://lapismyt.lol)
+- [Telegram](https://t.me/LapisMYT)
 
 IDE: VS Code, sometimes PyCharm
 
