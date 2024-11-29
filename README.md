@@ -1,16 +1,19 @@
-## Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/ca0cb219-088f-4a29-9d00-140073eea462.svg)](https://wakatime.com/@ca0cb219-088f-4a29-9d00-140073eea462)
 
-<!--
-**lapismyt/lapismyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm backend Python developer, learning Rust.
 
-Here are some ideas to get you started:
+Telegram: @LapisMYT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+- Basic: threading, asyncio, sqlite3, dataclasses-json
+- Telegram: pyTelegramBotAPI, aiogram 3, telethon, pyrogram
+- TON: pytoniq, ston-fi.py, dedust, tonutils
+- Web: aiohttp, flask
+
+GitHub: https://github.com/lapismyt
+
+Website: http://lapismyt.lol
+
+IDE: VS Code, sometimes PyCharm
+
+#freeinternet
