@@ -4,33 +4,19 @@
 ### I'm backend Python developer.
 
 Skills:
-- Basic: threading, asyncio, sqlite3, dataclasses-json, pypy, linux
+- Basic: threading, asyncio, sqlite3, mongodb, dataclasses-json, pypy, linux
 - Telegram: pytelegrambotapi, aiogram 3, telethon, pyrogram
 - TON: pytoniq, ston-fi.py, dedust, tonutils
 - Web: aiohttp, flask
 - AI: aihorde, ollama, openai, anthropic
 - GUI: kivy, kivymd, tkinter
 
-Links:
-- [GitHub](https://github.com/lapismyt)
-- [Website](http://lapismyt.lol)
-- [Telegram](https://t.me/LapisMYT)
-- [Wakatime](https://wakatime.com/@LapisMYT)
-
-Some badges, just for fun:
-
-[![Manjaro Linux](https://img.shields.io/badge/Manjaro-gray?logo=manjaro)](https://manjaro.org)
-[![KDE Plasma](https://img.shields.io/badge/KDE-gray?logo=kde)](https://kde.org)
-[![Python](https://img.shields.io/badge/Python-gray?logo=python)](https://www.python.org)
-[![PyPy](https://img.shields.io/badge/PyPy-gray?logo=pypy)](https://pypy.org)
-[![TON](https://img.shields.io/badge/TON-gray?logo=ton)](https://ton.org)
-[![Telegram](https://img.shields.io/badge/Telegram-gray?logo=telegram)](https://telegram.org)
-[![GIMP](https://img.shields.io/badge/GIMP-gray?logo=gimp)](https://gimp.org)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-gray?logo=hugging-face)](https://huggingface.co)
-[![Rust](https://img.shields.io/badge/Rust-gray?logo=rust)](https://www.rust-lang.org)
-[![Ollama](https://img.shields.io/badge/Ollama-gray?logo=ollama)](https://ollama.com)
-[![SQLite](https://img.shields.io/badge/SQLite-gray?logo=sqlite)](https://sqlite.com)
-[![Flask](https://img.shields.io/badge/Flask-gray?logo=flask)](https://flask.palletsprojects.com/en/stable)
-[![Linux](https://img.shields.io/badge/Linux-gray?logo=linux)](https://www.linux.org)
-[![GPL v3](https://img.shields.io/badge/GPLv3-gray?logo=gnu)](https://www.gnu.org/licenses/gpl-3.0)
+[![Website](https://img.shields.io/badge/Website-gray?logo=flask)](http://lapismyt.lol)
+[![Wakatime](https://img.shields.io/badge/Wakatime-gray?logo=wakatime)](https://wakatime.com/@LapisMYT)
+[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)](https://github.com/lapismyt)
+[![TON Wallet](https://img.shields.io/badge/TON_Wallet-gray?logo=ton)]([https://ton.org](https://tonviewer.com/ton-lapismyt.ton))
+[![Telegram](https://img.shields.io/badge/Telegram-gray?logo=telegram)](https://t.me/LapisMYT)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-gray?logo=hugging-face)]([https://huggingface.co](https://huggingface.co/lapismyt))
+[![Twitter (X)](https://img.shields.io/badge/Twitter_(X)-gray?logo=x)](https://x.com/LapisMYT)
+[![Discord](https://img.shields.io/badge/Discord-gray?logo=discord)](http://discord.com/users/965869347602067467)
 [![PieMC](https://img.shields.io/badge/🍰_PieMC-gray)](https://github.com/PieMC-Dev/PieMC)
