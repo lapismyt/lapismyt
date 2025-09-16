@@ -12,7 +12,7 @@ Skills:
 - AI: aihorde, ollama, openai, anthropic, openrouter
 - GUI: kivy, kivymd, tkinter, flet
 
-[![Website](https://img.shields.io/badge/Website-gray?logo=flask)](http://lapismyt.lol)
+[![Website](https://img.shields.io/badge/Website-gray?logo=flask)](http://lapis.uno)
 [![Wakatime](https://img.shields.io/badge/Wakatime-gray?logo=wakatime)](https://wakatime.com/@LapisMYT)
 [![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github)](https://github.com/lapismyt)
 [![TON Wallet](https://img.shields.io/badge/TON_Wallet-gray?logo=ton)]([https://ton.org](https://tonviewer.com/ton-lapismyt.ton))
