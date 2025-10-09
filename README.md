@@ -4,13 +4,13 @@
 ### I'm backend Python developer.
 
 Skills:
-- Basic: threading, asyncio, pydantic, dataclasses-json, typing, uv, ruff
+- Basic: threading, asyncio, pydantic, dataclasses-json, typing, uv, ruff, docker-compose
 - Database: sqlmodel, sqlite3, mongodb, postgresql, aiosqlite
 - Telegram: pytelegrambotapi, aiogram 3, telethon, pyrogram
 - TON: pytoniq, ston-fi.py, dedust, tonutils, toncenter
-- Web: aiohttp, flask, fastapi
+- Web: aiohttp, flask, fastapi, jinja2
 - AI: aihorde, ollama, openai, anthropic, openrouter
-- GUI: kivy, kivymd, tkinter, flet
+- GUI: kivy, kivymd, tkinter, flet, streamlit
 
 [![Website](https://img.shields.io/badge/Website-gray?logo=flask)](http://lapis.uno)
 [![Wakatime](https://img.shields.io/badge/Wakatime-gray?logo=wakatime)](https://wakatime.com/@LapisMYT)
